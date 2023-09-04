@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/developer/Projects/ofc-client-bak/ofc-client/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/developer/Projects/ofc-client-bak/ofc-client/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
