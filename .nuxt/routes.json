@@ -3,12 +3,14 @@
     "name": "inspire",
     "path": "/inspire",
     "component": "/home/developer/Projects/ofc-client-bak/ofc-client/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "chunkName": "pages/inspire",
+    "_name": "_6dd528ef"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/home/developer/Projects/ofc-client-bak/ofc-client/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_498fc3b2"
   }
 ]
