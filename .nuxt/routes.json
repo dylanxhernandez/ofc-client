@@ -2,15 +2,15 @@
   {
     "name": "inspire",
     "path": "/inspire",
-    "component": "/home/developer/Projects/ofc-client-bak/ofc-client/pages/inspire.vue",
+    "component": "/home/developer/Projects/ofc-client/pages/inspire.vue",
     "chunkName": "pages/inspire",
-    "_name": "_6dd528ef"
+    "_name": "_6b51d8bd"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/developer/Projects/ofc-client-bak/ofc-client/pages/index.vue",
+    "component": "/home/developer/Projects/ofc-client/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_498fc3b2"
+    "_name": "_efcb2d16"
   }
 ]
