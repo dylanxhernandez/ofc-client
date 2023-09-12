@@ -15,6 +15,7 @@ function App() {
         <a href="/mp">Major Purchase</a>&nbsp;&bull;&nbsp;
         <a href="/di">Desired Income</a>
       </div>
+      <br/>
       <hr/>
       <AppRouter />
     </div>

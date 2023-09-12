@@ -3,7 +3,7 @@ import { useState } from "react";
 function DesiredIncome() {
   return (
     <>
-      <div>Desired Income</div>
+      <h3>Desired Income</h3>
       <p>
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
         accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
