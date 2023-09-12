@@ -3,7 +3,7 @@ import { useState } from "react";
 function RateOfReturn() {
   return (
     <>
-      <div>RateOfReturn</div>
+      <h3>Rate of Return</h3>
       <p>
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
         accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae

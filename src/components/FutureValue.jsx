@@ -3,7 +3,7 @@ import { useState } from "react";
 function FutureValue() {
   return (
     <>
-      <div>Future Value</div>
+      <h3>Future Value</h3>
       <p>
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
         accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae

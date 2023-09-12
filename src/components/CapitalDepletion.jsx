@@ -3,7 +3,7 @@ import { useState } from "react";
 function CapitalDepletion() {
   return (
     <>
-      <div>Capital Depletion</div>
+      <h3>Capital Depletion</h3>
       <p>
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
         accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
