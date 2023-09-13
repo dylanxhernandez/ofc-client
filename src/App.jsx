@@ -18,6 +18,7 @@ function App() {
       <br/>
       <hr/>
       <AppRouter />
+      <hr/>
     </div>
   );
 }
